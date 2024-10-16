@@ -1,3 +1,3 @@
-const address = "mailto:iletisim@migros.com.tr?bcc=aksiyon@kafessizturkiye.com"
+const address = "mailto:info@happymoons.com.tr?bcc=aksiyon2@kafessizturkiye.com"
 let link = address
 window.location.replace(link);
