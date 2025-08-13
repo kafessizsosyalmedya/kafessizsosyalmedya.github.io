@@ -6,7 +6,9 @@ const addresses = [
     "https://maps.app.goo.gl/BRxPp771LDXo8Q9N7",
     "https://maps.app.goo.gl/4Xsywe43zmB2uLif8",
     "https://maps.app.goo.gl/nTmzYGCCRxXm2f2x9",
-    "https://maps.app.goo.gl/S1SkfcK6Hh49mKpZ6"
+    "https://maps.app.goo.gl/S1SkfcK6Hh49mKpZ6",
+    "https://maps.app.goo.gl/XxUVhGGBaPBEGq8Y6",
+    "https://maps.app.goo.gl/F1qbexYxWQz8t2da6"
     
     
   
